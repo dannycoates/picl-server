@@ -8,7 +8,8 @@ var authConfig = require('./routes/token-auth.js').config;
 
 // server settings
 var settings = {
-  auth: authConfig
+  auth: authConfig,
+  monitor: true
 };
 
 // Create a server with a host and port

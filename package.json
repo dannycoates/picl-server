@@ -16,6 +16,7 @@
   "dependencies": {
     "hapi": "0.14.2",
     "joi": "0.1.1",
+    "aws-sdk": "v0.9.9-pre.10",
     "awsbox": "0.4.4",
     "awsboxen": "0.1.0",
     "convict": "0.1.x",
